@@ -8,6 +8,3 @@
 - **Frameworks**: React, NextJS, jQuery, Numpy, Pandas, Flask, Node, graphQL, Apollo, Prisma, Express
 - **Mobile App Development**: React Native
 - **Database Systems**: PostgreSQL, SQLAlchemy
-
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/kendykane?theme=nord)
