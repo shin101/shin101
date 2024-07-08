@@ -3,8 +3,7 @@
 
 <h3>Technical Skills ✏️</h3>
 
-- **Generative AI**: Langchain, Hugging Face, OpenAI API, Streamlit, FastAPI
 - **Languages**: TypeScript, JavaScript, Python, HTML, CSS, SQL
-- **Frameworks**: React, NextJS, jQuery, Numpy, Pandas, Flask, Node, graphQL, Apollo, Prisma, Express
+- **Frameworks**: React, NextJS, Tailwind, jQuery, Numpy, Pandas, Flask, Node, graphQL, Apollo, Prisma, Express
 - **Mobile App Development**: React Native
 - **Database Systems**: PostgreSQL, SQLAlchemy
